@@ -5,3 +5,8 @@
 *.iws
 *.iml
 *.ipr
+
+### Excel files and .dot files ###
+*.xlsx
+*.xls
+*.dot
